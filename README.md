@@ -1,6 +1,6 @@
 # py-moneys
 
-graph.py is an implementation of the transaction optimization algorithms discussed in this paper. 
+graph.py is an implementation of the transaction optimization algorithms discussed in [this paper](https://pure.tue.nl/ws/portalfiles/portal/2062204/623903.pdf). 
 improvements can be made towards time complexity and storage usage, though some choices were made in favor of readability and simplicity.
 it could also use a lot more test cases.
 
